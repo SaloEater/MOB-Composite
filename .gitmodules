@@ -1,0 +1,12 @@
+[submodule "WhatNot-Username-Parser"]
+	path = WhatNot-Username-Parser
+	url = https://github.com/SaloEater/WhatNot-Username-Parser
+[submodule "Whatnot-Frontend"]
+	path = Whatnot-Frontend
+	url = https://github.com/SaloEater/Whatnot-Frontend
+[submodule "WhatNot-Webhook-Holder"]
+	path = WhatNot-Webhook-Holder
+	url = https://github.com/SaloEater/WhatNot-Webhook-Holder
+[submodule "No-Mod-Livestream"]
+	path = No-Mod-Livestream
+	url = https://github.com/SaloEater/No-Mod-Livestream
