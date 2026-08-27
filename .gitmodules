@@ -10,3 +10,6 @@
 [submodule "No-Mod-Livestream"]
 	path = No-Mod-Livestream
 	url = https://github.com/SaloEater/No-Mod-Livestream
+[submodule "Elgato-Plugin"]
+	path = Elgato-Plugin
+	url = https://github.com/SaloEater/MOB-Elgato-Plugin
